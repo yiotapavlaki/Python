@@ -40,7 +40,7 @@ These reinforced my analytical thinking and Python proficiency.
 
 [Link to my notebook](https://colab.research.google.com/drive/1PpY94SrQiNoDTvUt_gfniiXR3JAc_2Aq?usp=sharing)
 
-[Link to my notebook](https://colab.research.google.com/drive/1IWX62tZYO8fl_g4rmNaYTirrGdaW-ezn?usp=sharing)
+[Link to my notebook (ATM)](https://colab.research.google.com/drive/1IWX62tZYO8fl_g4rmNaYTirrGdaW-ezn?usp=sharing)
 
 🎯 **Summary**
 
